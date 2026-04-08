@@ -1,0 +1,8 @@
+FE = float(input("Foundation English:"))
+GB = float(input("General Business:"))
+ICS = float(input("Introduction to Computer Systems:"))
+CP = float(input("Computer Programming:"))
+print("Foundation English:",FE)
+print("General Business:",GB)
+print("Introduction to Computer Systems:",ICS)
+print("Computer Programming:",CP)
