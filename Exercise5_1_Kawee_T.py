@@ -1,0 +1,6 @@
+Num1 = int(input("num1:"))
+Num2 = int(input("num2:"))
+print(str(Num1),"+",str(Num2),"=",Num1+Num2)
+print(str(Num1),"-",str(Num2),"=",Num1-Num2)
+print(str(Num1),"*",str(Num2),"=",Num1*Num2)
+print(str(Num1),"/",str(Num2),"=",Num1/Num2)
